@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/checkweather/static/css/main.0203d4ae.css",
+    "main.js": "/checkweather/static/js/main.32c9a94c.js",
+    "static/media/cold.jpg": "/checkweather/static/media/cold.ec9a0c27050fb0d6b963.jpg",
+    "static/media/hot.jpg": "/checkweather/static/media/hot.e565ad6a386dcfdbe0c4.jpg",
+    "index.html": "/checkweather/index.html",
+    "main.0203d4ae.css.map": "/checkweather/static/css/main.0203d4ae.css.map",
+    "main.32c9a94c.js.map": "/checkweather/static/js/main.32c9a94c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0203d4ae.css",
+    "static/js/main.32c9a94c.js"
+  ]
+}
